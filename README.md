@@ -16,6 +16,11 @@ queries:
 https://www.sqltutorial.org/sql-rollup/
 
 
+chartjs sql:
+
+https://phppot.com/php/creating-dynamic-data-graph-using-php-and-chart-js/
+
+
 Steps: 
 1)connection and create db by php
 2)select a database and create table in it
