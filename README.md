@@ -2,12 +2,18 @@
 This is learning repository for  using php with mysql.
 
 use the following links:
+
 https://www.tutorialspoint.com/php/php_and_mysql.htm
+
 https://www.w3schools.com/php/php_mysql_create.asp
 
 use the below link to work with chart via php:
+
 https://phppot.com/php/creating-dynamic-data-graph-using-php-and-chart-js/
 
+queries:
+
+https://www.sqltutorial.org/sql-rollup/
 
 
 Steps: 
