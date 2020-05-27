@@ -1,1 +1,10 @@
 Select (Select count(*) from employee where emp_gender='M') AS Male, (Select count(*) from employee where emp_gender ='F') as Female;
+
+// https://www.sqltutorial.org/sql-rollup/
+
+//this query works fine to count gender with its total
+SELECT 
+    emp_gender, count(emp_gender) as total
+FROM
+    employee
+GROUP BY emp_gender;
