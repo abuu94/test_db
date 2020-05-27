@@ -1,0 +1,1 @@
+Select (Select count(*) from employee where emp_gender='M') AS Male, (Select count(*) from employee where emp_gender ='F') as Female;
