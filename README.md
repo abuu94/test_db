@@ -23,8 +23,13 @@ https://phppot.com/php/creating-dynamic-data-graph-using-php-and-chart-js/
 
 Steps: 
 1)connection and create db by php
+
 2)select a database and create table in it
+
 3)import sql file for running many queries
+
 4)drop table or the complete db
+
 5)front-end inserting-record
+
 6)back-end inserting-record
